@@ -5,3 +5,4 @@ Using HTML and CSS clone , through this project i have learned about flex-box
 ![ image alt ](https://github.com/priyankashori/Spotify-clone/blob/3793e9f79023088f4ab7a2e1d55904519adbcee0/card1img.jpeg)
 ![ image alt ](https://github.com/priyankashori/Spotify-clone/blob/1463e235ce5099d9aa0fd40b8a6af0ae51a8e039/card2img.jpeg)
 ![ image alt ](https://github.com/priyankashori/Spotify-clone/blob/fe2819d56a5c73bd126563945d6ec769bb208562/card3img.jpeg)
+![ image alt ](https://github.com/priyankashori/Spotify-clone/blob/b74c120bc92bc3c42bffa4718752bd09c6288d0d/card4img.jpeg)
